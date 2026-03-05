@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>MY PAGE</title>
 <style>
     form {
         width: 300px;
@@ -14,6 +18,7 @@
     font-size: 15px;
    } 
     </style>
+    </head>
 <body>
     <div class="Name">
     <img src="<?php echo plugin_dir_url(__FILE__); ?>images/jeff.png" alt="Kent Image" style="width:200px; height:200px; border-radius: 50%" ></div>
@@ -44,5 +49,5 @@ I have a strong passion for coding and web development, where I enjoy turning id
         Contact</b> <hr><br>
        <b> Email: Ketuanzee@gmail.com<br> Tel: 237673698317<br>Location: Buea Cameroon</b>
 </div>
-
-
+<body>S
+</html>
