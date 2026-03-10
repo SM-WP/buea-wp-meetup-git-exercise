@@ -127,7 +127,7 @@ ideas into functional and creative projects.</p>
     <h2> Experience</h2>
    <p> <strong> Software Engineering Student </strong> <br>
     2025 — present <br>
-    College Of Technology </p><br>
+    College Of Technology </p>
     <strong> Web developement (learning)</strong><br>
     Building projects in HTML, CSS and Wordpress
 
@@ -139,7 +139,7 @@ ideas into functional and creative projects.</p>
    
 </div>
 </div>
-<div>
+
     
 </body>
 </html>
